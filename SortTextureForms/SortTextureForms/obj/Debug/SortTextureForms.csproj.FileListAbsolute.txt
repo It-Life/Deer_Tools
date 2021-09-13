@@ -1,0 +1,10 @@
+D:\Work\Tools\SortTextureForms\SortTextureForms\bin\Debug\SortTextureForms.exe.config
+D:\Work\Tools\SortTextureForms\SortTextureForms\bin\Debug\SortTextureForms.exe
+D:\Work\Tools\SortTextureForms\SortTextureForms\bin\Debug\SortTextureForms.pdb
+D:\Work\Tools\SortTextureForms\SortTextureForms\obj\Debug\SortTextureForms.csproj.AssemblyReference.cache
+D:\Work\Tools\SortTextureForms\SortTextureForms\obj\Debug\SortTextureForms.Form1.resources
+D:\Work\Tools\SortTextureForms\SortTextureForms\obj\Debug\SortTextureForms.Properties.Resources.resources
+D:\Work\Tools\SortTextureForms\SortTextureForms\obj\Debug\SortTextureForms.csproj.GenerateResource.cache
+D:\Work\Tools\SortTextureForms\SortTextureForms\obj\Debug\SortTextureForms.csproj.CoreCompileInputs.cache
+D:\Work\Tools\SortTextureForms\SortTextureForms\obj\Debug\SortTextureForms.exe
+D:\Work\Tools\SortTextureForms\SortTextureForms\obj\Debug\SortTextureForms.pdb

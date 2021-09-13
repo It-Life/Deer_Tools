@@ -64,7 +64,7 @@ namespace SortTexture
                         else 
                         {
                             Size size = ImageHeader.GetDimensions(files[i].FullName);
-                            if (size.Width > 512f && size.Height > 512f)
+                            if (size.Width > 500f && size.Height > 500f)
                             {
                                 string selectedPath = dialog.SelectedPath + "/Texture";
                                 CopyFile(selectedPath, files[i]);

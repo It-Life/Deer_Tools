@@ -7,3 +7,12 @@ D:\Work\Tools\SortTexture\SortTexture\obj\Debug\SortTexture.exe
 D:\Work\Tools\SortTexture\SortTexture\obj\Debug\SortTexture.pdb
 D:\Work\Tools\SortTexture\SortTexture\bin\Debug\System.Drawing.Common.dll
 D:\Work\Tools\SortTexture\SortTexture\obj\Debug\SortTexture.csproj.CopyComplete
+D:\GitHub\Tool\SortTexture\SortTexture\bin\Debug\SortTexture.exe.config
+D:\GitHub\Tool\SortTexture\SortTexture\bin\Debug\SortTexture.exe
+D:\GitHub\Tool\SortTexture\SortTexture\bin\Debug\SortTexture.pdb
+D:\GitHub\Tool\SortTexture\SortTexture\bin\Debug\System.Drawing.Common.dll
+D:\GitHub\Tool\SortTexture\SortTexture\obj\Debug\SortTexture.csproj.AssemblyReference.cache
+D:\GitHub\Tool\SortTexture\SortTexture\obj\Debug\SortTexture.csproj.CoreCompileInputs.cache
+D:\GitHub\Tool\SortTexture\SortTexture\obj\Debug\SortTexture.csproj.CopyComplete
+D:\GitHub\Tool\SortTexture\SortTexture\obj\Debug\SortTexture.exe
+D:\GitHub\Tool\SortTexture\SortTexture\obj\Debug\SortTexture.pdb
